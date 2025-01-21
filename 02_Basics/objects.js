@@ -1,6 +1,6 @@
 /*
  Object declaration:
-  1. Singleton : Object.create()
+  1. Singleton : Object.create()/new Object()
   2. Literals  : {key:value}
                  - by deafult key will be string key-> internally processes"key"
 */
