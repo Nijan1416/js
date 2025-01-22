@@ -41,6 +41,8 @@ console.log(obj1.hasOwnProperty('1')); // Check property exist
      if function retruns null or Object and you use the object destructuring then it will throw an error
      to avoid this
       we can use OR operator(||) to fallback the null object to an empty object
+
+    https://dmitripavlutin.com/javascript-object-destructuring/
 */
 
 const course= {name:'JS', price:"9999",instructor:'Nijan'}
